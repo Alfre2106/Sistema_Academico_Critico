@@ -29,7 +29,7 @@ export function Login() {
         <div className="bg-gray-900 rounded-lg border border-gray-800 p-8 shadow-2xl">
           <div className="text-center mb-8">
             <h1 className="text-3xl text-white mb-2">Sistema Académico</h1>
-            <h1 className="text-3xl text-white mb-2">Diseñado Por: Alfredo Mercado - Edgar Rodelo - Miguelangel De La Hoz</h1>
+            <p className="text-sm text-gray-500 mb-2">Diseñado por: Alfredo Mercado - Edgar Rodelo - Miguelangel De La Hoz</p>
             <p className="text-gray-400">Ingresa tus credenciales para continuar</p>
           </div>
 

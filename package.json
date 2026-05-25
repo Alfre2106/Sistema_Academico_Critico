@@ -1,8 +1,12 @@
 {
-  "name": "@figma/my-make-file",
+  "name": "sistema-academico-critico",
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
+  "packageManager": "pnpm@9.15.0",
   "scripts": {
     "build": "vite build",
     "dev": "vite"
